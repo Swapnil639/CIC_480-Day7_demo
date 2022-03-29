@@ -5,6 +5,7 @@ fruits[1]="Oranges";
 fruits[2]="Apples";
 fruits[3]="Grapes";
 fruits[4]="banana";
+fruits[5]="Papaya"
 
 echo "All elements of array : "${fruits[@]};
 echo "Size of array : " ${#fruits[@]};
